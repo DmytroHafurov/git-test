@@ -1,0 +1,51 @@
+@media screen and (max-width: 768px) {
+  header {
+    margin-left: 49px;
+  }
+  header .header-nav {
+    width: 670px;
+    margin: 0 auto;
+  }
+  .banner {
+    width: 768px;
+  }
+  .container {
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+    width: 768px;
+  }
+  .container .dreamshare {
+    width: 100%;
+  }
+  .container .dreamshare-items {
+    width: 748px;
+  }
+  .container .dreamshare-items .dreamshare-item {
+    width: 236px;
+    height: 400px;
+  }
+  .partners {
+    width: 492px;
+    margin: 0 auto;
+    margin-top: 94px;
+  }
+  .partners .partners-items {
+    flex-wrap: wrap;
+  }
+  .ideas-items {
+    width: auto;
+  }
+  .ideas-items .ideas-items-rows .ideas-items-row .row {
+    width: 236px;
+    height: 310px;
+  }
+  .ideas-items .ideas-items-rows .ideas-items-row .wider-row {
+    width: 492px;
+  }
+  .footer {
+    width: 692px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+}/*# sourceMappingURL=media_max768.css.map */
